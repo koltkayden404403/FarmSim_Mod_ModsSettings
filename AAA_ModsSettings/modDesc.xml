@@ -1,35 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="25">
-    <author>Decker_MMIV</author>
-
-    <contributors></contributors>
-    
-    <version>0.2.0-BETA</version>
-
-    <title>
-        <en>Mods Settings - (a 'mod for mods')</en>
-        <de>Mods Settings - (a 'mod for mods')</de>
-        <ru>Mods Settings - (a 'mod for mods')</ru>
-        <cz>Mods Settings - (a 'mod for mods')</cz>
-        <fr>Mods Settings - (a 'mod for mods')</fr>
-        <it>Mods Settings - (a 'mod for mods')</it>
-        <es>Mods Settings - (a 'mod for mods')</es>
-        <pl>Mods Settings - (a 'mod for mods')</pl>
-    </title>
-    
-    <description>
-        <en>
-<![CDATA[Allows other mods to use a single shared settings-file 'modsSettings.XML' for their properties.
-
-Decker_MMIV - fs-uk.com, modcentral.co.uk, forum.farming-simulator.com, modhoster.com]]>
-        </en>
-    </description>
-
-    <iconFilename>store_ModsSettings.dds</iconFilename>
-
-    <multiplayer supported="true"/>
-
-    <extraSourceFiles>
-        <sourceFile filename="ModsSettings.lua" />
-    </extraSourceFiles>
+<?xml version="1.0" encoding="utf-8"?>
+<modDesc descVersion="54">
+    <title>2005 Duramax Diesel</title>
+    <version>1.0.0</version>
+    <description>A 2005 Duramax Diesel truck mod for FS22.</description>
+    <category>pickup</category>
+    <author>Your Name</author>
+    <license>MIT</license>
+    <tags>truck, duramax, diesel</tags>
+    <price>30000</price>
+    <requiredItems/>
+    <modDependencies/>
+    <gameVersion min="8.0" max="9.0"/>
 </modDesc>
